@@ -29,7 +29,7 @@
               Dashboard
             </a>
             <ul class="dropdown-menu dropdown-menu-dark">
-              <li><a class="dropdown-item" href="index.php/page_name=market">Market</a></li>
+              <li><a class="dropdown-item" href="index.php/page_name=dashboard">Market</a></li>
               <li><a class="dropdown-item" href="index.php/page_name=watchlist">Watchlist</a></li>
               <li>
               </li>
